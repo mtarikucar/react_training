@@ -2,6 +2,7 @@
 # Notes to myself
 
 - use "GENERATE_SOURCEMAP=false" when getting build if you dont want to show your react code in inspect
+- firstly setup the envirenment variable
 
 
 ### Advanced Configuration
